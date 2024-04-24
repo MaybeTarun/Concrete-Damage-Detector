@@ -1,8 +1,8 @@
 # Concrete-Damage-Detector
 
-Traditional visual inspections for concrete damage are time-consuming, expensive, and prone to human error. Inspectors may miss hidden cracks or misjudge their severity, leading to delayed repairs and potential structural failures. This project proposes an innovative solution using deep learning to automate concrete damage detection. It leverages the YOLOv8 deep learning model. Known for its balance between accuracy and speed, YOLOv8 is ideal for real-time crack detection, enabling rapid assessments during inspections. A custom dataset is central to this project. This dataset comprises a diverse collection of images containing various damage types and severities on concrete surfaces.Traditional visual inspections for concrete damage are time-consuming, expensive, and prone to human error. Inspectors may miss hidden cracks or misjudge their severity, leading to delayed repairs and potential structural failures.
+Traditional visual inspections for concrete damage are time-consuming, expensive, and prone to human error. Inspectors may miss hidden cracks or misjudge their severity, leading to delayed repairs and potential structural failures. This project proposes an innovative solution using deep learning to automate concrete damage detection. It leverages the YOLOv8 deep learning model developed by [Ultralytics](https://www.ultralytics.com/). Known for its balance between accuracy and speed, YOLOv8 is ideal for real-time detection, enabling rapid assessments during inspections. A custom dataset is central to this project. This dataset comprises a diverse collection of images containing various damage types and severities on concrete surfaces.Traditional visual inspections for concrete damage are time-consuming, expensive, and prone to human error. Inspectors may miss hidden cracks or misjudge their severity, leading to delayed repairs and potential structural failures.
 
-## Train YOLO-v8 model on a custom dataset using Roboflow
+## Train YOLO-v8 model on a custom dataset using [Roboflow](https://roboflow.com/)
 
 - Importing Libraries
 ```
